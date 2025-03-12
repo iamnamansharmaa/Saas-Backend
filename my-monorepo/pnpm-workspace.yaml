@@ -1,0 +1,3 @@
+packages:
+  - "apps/*"   # Your applications
+  - "packages/*"  # Shared libraries
